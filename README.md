@@ -20,6 +20,7 @@ Welcome to Password_Decoder, a Python program designed to assist you in decrypti
 ## Technologies Used
 
 - PYTHON
+- Brute Force Attack 
 ## Screenshots
 
 ![App Screenshot](https://github.com/SumitKadam451/Password_Decoder/blob/main/Screenshot-1.png)
